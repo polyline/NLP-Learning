@@ -48,5 +48,24 @@ Natural Language Processing:
 
 
 
+# Useful Q&A 
+
+### How do I extract keywords used in text?
+https://stackoverflow.com/questions/1575246/how-do-i-extract-keywords-used-in-text
+
+It provide several tools to use
+
+1. Yahoo's tool, which is reported as high accurate but miss lots of keywords.
+http://developer.yahoo.com/search/content/V1/termExtraction.html
+
+2. Python's packages, **topia.termextract**, which is reported as simple to use but proposes lots of bogus keywords.
+http://pypi.python.org/pypi/topia.termextract/
+
+3. **Maui**
+http://code.google.com/p/maui-indexer/
+
+4. **NLTK**
+
+
 
 
